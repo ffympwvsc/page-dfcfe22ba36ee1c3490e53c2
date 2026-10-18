@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "b4c9ed92c0589ee37192b17e",
+  "owner": "ffympwvsc",
+  "repo": "page-dfcfe22ba36ee1c3490e53c2",
+  "title": "零卡",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "dfcfe22ba36ee1c3490e53c2",
+      "a": "零卡",
+      "b": "",
+      "entity": "零卡",
+      "brand": "零卡",
+      "separator": "",
+      "path": "index.html",
+      "hash": "a9601c9c242b7d42f1f66f9f7c44853f79ecbff44b86eaf2f2cc111f50cf2b38",
+      "content": {
+        "keyword1": "零卡",
+        "keyword2": "",
+        "primary_entity": "零卡",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "零卡提供多层级网络访问与加速方案，以克制定价和分层流量设计满足日常浏览、流媒体及团队协作需求。本文档介绍套餐、设备使用规范及常见问题。",
+          "AI_DESCRIPTION": "零卡提供多层级网络访问与加速方案，以克制定价和分层流量设计满足日常浏览、流媒体及团队协作需求。本文档介绍套餐、设备使用规范及常见问题。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root{--bg:#2B1F16;--surface:#342821;--ink:#F2EFE6;--subtle:#C9C0AF;--mint:#8FE0B0;--mint-deep:#5BBE8A;--rule:rgba(242,239,230,.12);--mono:\"Courier New\", Courier, monospace}\n*{box-sizing:border-box}\nhtml,body{margin:0;padding:0}\nbody{background:var(--bg);color:var(--ink);font-family: \"Helvetica Neue\", Arial, \"PingFang SC\", \"Microsoft YaHei\", sans-serif;line-height:1.8;font-size:16px;letter-spacing:.01em}\na{color:var(--mint);text-decoration:none}\na:hover{text-decoration:underline}\nsmall{color:var(--subtle)}\nstrong{color:var(--ink);font-weight:600}\n\n/* Nav */\n.nav{position:sticky;top:0;z-index:20;background:rgba(43,31,22,.92);border-bottom:1px solid var(--rule)}\n.nav-inner{max-width:1080px;margin:0 auto;padding:10px 24px;display:flex;align-items:center;justify-content:space-between;gap:16px}\n.brand{font-weight:700;letter-spacing:.14em;font-size:14px;color:var(--ink)}\n.brand b{color:var(--mint);font-weight:700}\n.nav-links{display:flex;gap:22px;flex-wrap:wrap}\n.nav-links a{color:var(--subtle);font-size:13px;letter-spacing:.08em}\n.nav-links a:hover{color:var(--mint);text-decoration:none}\n\n/* Layout container */\n.wrap{max-width:780px;margin:0 auto;padding:72px 24px 48px}\n.wrap-wide{max-width:1080px;margin:0 auto;padding:0 24px}\n\n/* Hero: long-form column article opener */\n.hero-article{max-width:780px;margin:0 auto;padding:88px 24px 40px}\n.eyebrow{font-size:12px;letter-spacing:.32em;color:var(--mint);margin:0 0 28px;text-transform:uppercase}\nh1{font-size:40px;line-height:1.25;margin:0 0 24px;font-weight:700;letter-spacing:.02em}\n.lede{font-size:19px;color:var(--subtle);line-height:1.85;margin:0 0 20px}\n.hero-article p{margin:0 0 20px;color:var(--subtle);font-size:15.5px}\n.hero-article p em{color:var(--mint);font-style:normal}\n.byline{margin-top:36px;padding-top:18px;border-top:1px solid var(--rule);font-size:12px;color:var(--subtle);letter-spacing:.14em}\n\n/* Section */\nsection{padding:64px 0 8px}\n.h2{font-size:22px;font-weight:700;margin:0 0 8px;letter-spacing:.02em}\n.section-tag{font-size:11px;letter-spacing:.3em;color:var(--mint-deep);text-transform:uppercase;margin:0 0 18px}\n.section-intro{color:var(--subtle);font-size:15px;max-width:620px;margin:0 0 36px}\n\n/* Card: borderless, space-separated */\n.card-stack{display:flex;flex-direction:column;gap:48px}\n.card{border:0;padding:0;margin:0}\n.card-head{display:flex;align-items:baseline;justify-content:space-between;gap:16px;flex-wrap:wrap;margin-bottom:8px}\n.card-name{font-size:20px;font-weight:700}\n.card-price{font-size:14px;color:var(--mint)}\n.card-annual{font-size:12px;color:var(--subtle);margin-bottom:16px}\n.card-rule{border:0;border-top:1px solid var(--rule);margin:16px 0 20px}\n.card-list{list-style:none;margin:0;padding:0}\n.card-list li{padding:10px 0;font-size:14.5px;color:var(--subtle);display:flex;gap:12px}\n.card-list li::before{content:\"\";width:6px;height:6px;border-radius:50%;background:var(--mint-deep);margin-top:9px;flex-shrink:0}\n\n/* Featured plan */\n.card.featured{background:rgba(143,224,176,.04);padding:32px;border-radius:4px;border-left:2px solid var(--mint)}\n.featured-flag{display:inline-block;font-size:11px;letter-spacing:.22em;color:var(--bg);background:var(--mint);padding:4px 10px;border-radius:2px;margin-bottom:18px}\n\n/* Usage steps */\n.steps{counter-reset:step;margin:0;padding:0;list-style:none}\n.steps li{counter-increment:step;padding:24px 0;border-top:1px solid var(--rule)}\n.steps li:last-child{border-bottom:1px solid var(--rule)}\n.steps li::before{content:counter(step,decimal-leading-zero);display:block;font-family:var(--mono);font-size:12px;color:var(--mint);margin-bottom:8px;letter-spacing:.2em}\n.steps h3{font-size:16px;margin:0 0 8px;font-weight:600}\n.steps p{margin:0;color:var(--subtle);font-size:14.5px}\n\n/* FAQ */\n.faq-group{display:flex;flex-direction:column;gap:0}\ndetails{border-top:1px solid var(--rule);padding:20px 0}\ndetails:last-child{border-bottom:1px solid var(--rule)}\nsummary{cursor:pointer;list-style:none;font-size:15px;font-weight:600;color:var(--ink);display:flex;justify-content:space-between;align-items:center;gap:16px}\nsummary::-webkit-details-marker{display:none}\nsummary::after{content:\"+\";color:var(--mint);font-size:18px;flex-shrink:0}\ndetails[open] summary::after{content:\"–\"}\ndetails p{margin:14px 0 0;color:var(--subtle);font-size:14.5px;line-height:1.85}\n\n/* Footer */\nfooter{margin-top:48px;border-top:1px solid var(--rule);padding:32px 24px}\n.foot-inner{max-width:780px;margin:0 auto;display:flex;justify-content:space-between;flex-wrap:wrap;gap:16px;font-size:12px;color:var(--subtle);letter-spacing:.06em}\n.foot-inner a{color:var(--subtle)}\n.foot-inner a:hover{color:var(--mint)}\n\n@media (max-width:600px){\n  .hero-article{padding:56px 20px 24px}\n  h1{font-size:30px}\n  .lede{font-size:17px}\n  .nav-links{display:none}\n  .card.featured{padding:24px}\n}\n</style><nav class=\"nav\">\n  <div class=\"nav-inner\">\n    <div class=\"brand\"><b>零卡</b> · ZERO-CARD</div>\n    <div class=\"nav-links\">\n      <a href=\"#overview\">概览</a>\n      <a href=\"#plans\">套餐</a>\n      <a href=\"#usage\">使用说明</a>\n      <a href=\"#faq\">常见问题</a>\n    </div>\n  </div>\n</nav>\n\n<main>\n  <header class=\"hero-article\">\n    <p class=\"eyebrow\">文档 / 服务说明 / 第 01 节</p>\n    <h1>零卡：把网络访问做成一份可读的说明书</h1>\n    <p class=\"lede\">\n      我们不卖故事，也不堆砌节点数量。零卡将网络访问服务拆解为流量、设备、线路与支持四个变量，用分层定价让每一档套餐对应可预期的使用边界。\n    </p>\n    <p>\n      基础版面向轻度浏览与日常检索，每月 <strong>100GB</strong> 流量与 <strong>3 台</strong>设备额度，足够覆盖通勤与家用的零散访问。旗舰版把流量提升到 <strong>300GB</strong>，设备额度放宽至 <strong>5 台</strong>，并加入 IPLC 专线对游戏与实时通信的优化路径。团队版则面向多人协作场景，提供 <strong>1000GB</strong> 流量、<strong>20 台</strong>设备接入以及企业路由定制。\n    </p>\n    <p>\n      本页面不承诺任何不可量化的体验描述。所有套餐权益以下文列出的条目为准，所有使用限制以本文档与客户端提示为准。<em>若某项能力未在本页写明，则视为未提供。</em>\n    </p>\n    <p class=\"byline\">零卡编辑组 · 服务文档 · 最近修订</p>\n  </header>\n\n  <section id=\"overview\" class=\"wrap\">\n    <p class=\"section-tag\">02 · 服务定位</p>\n    <h2 class=\"h2\">分层流量，而非模糊宣传</h2>\n    <p class=\"section-intro\">\n      零卡只提供按月计费的流量型套餐。我们不在文案中使用\"无限\"\"极速\"\"永久\"等无法被验证的表述，而是将每一档套餐拆解为可被对照的权益清单。\n    </p>\n\n    <div class=\"card-stack\">\n      <article class=\"card\">\n        <p>基础版适用于文档检索、网页浏览与轻度流媒体观看。普通线路节点池覆盖常见地区，<strong>不保证</strong>特定流媒体平台的解锁成功率。设备额度为 3 台，超出将被系统拒绝接入，不会自动替换已在线设备。</p>\n      </article>\n      <article class=\"card\">\n        <p>旗舰版在流量与设备额度上均有提升，并优先调度 IPLC 专线用于游戏加速与实时通信。全节点原生流媒体解锁表示节点出口为原生 IP，但不代表所有平台永久可用，平台策略变更可能影响结果。</p>\n      </article>\n      <article class=\"card\">\n        <p>团队版提供专属高带宽节点与企业路由定制。定制路由需提交需求工单，由客户经理评估可行性后配置，并非所有目的地址均可满足。20 台设备额度适用于同一团队账户，不允许多账户共享。</p>\n      </article>\n    </div>\n  </section>\n\n  <section id=\"plans\" class=\"wrap\">\n    <p class=\"section-tag\">03 · 套餐清单</p>\n    <h2 class=\"h2\">三档套餐，按月或按年</h2>\n    <p class=\"section-intro\">\n      以下价格为公示价格，不包含支付渠道可能产生的手续费。按年付价格为年付总额，不是月付折算后的优惠价。\n    </p>\n\n    <div class=\"card-stack\">\n\n      <article class=\"card\">\n        <div class=\"card-head\">\n          <h3 class=\"card-name\">基础版</h3>\n          <span class=\"card-price\">¥15 / 月</span>\n        </div>\n        <p class=\"card-annual\">按年付仅需 ¥150 / 年</p>\n        <hr class=\"card-rule\">\n        <ul class=\"card-list\">\n          <li>每月 100GB 流量额度</li>\n          <li>支持 3 台设备同时在线</li>\n          <li>解锁基础流媒体</li>\n          <li>普通线路节点池</li>\n        </ul>\n      </article>\n\n      <article class=\"card featured\">\n        <span class=\"featured-flag\">推荐配置</span>\n        <div class=\"card-head\">\n          <h3 class=\"card-name\">旗舰版</h3>\n          <span class=\"card-price\">¥35 / 月</span>\n        </div>\n        <p class=\"card-annual\">按年付仅需 ¥350 / 年</p>\n        <hr class=\"card-rule\">\n        <ul class=\"card-list\">\n          <li>每月 300GB 流量额度</li>\n          <li>支持 5 台设备同时在线</li>\n          <li>全节点原生流媒体解锁</li>\n          <li>IPLC 专线游戏加速优化</li>\n          <li>7x24 优先工单支持</li>\n        </ul>\n      </article>\n\n      <article class=\"card\">\n        <div class=\"card-head\">\n          <h3 class=\"card-name\">团队版</h3>\n          <span class=\"card-price\">¥85 / 月</span>\n        </div>\n        <p class=\"card-annual\">按年付仅需 ¥850 / 年</p>\n        <hr class=\"card-rule\">\n        <ul class=\"card-list\">\n          <li>每月 1000GB 流量额度</li>\n          <li>支持 20 台设备同时在线</li>\n          <li>VIP 专属高带宽节点</li>\n          <li>支持企业定制路由</li>\n          <li>专属客户经理服务</li>\n        </ul>\n      </article>\n\n    </div>\n  </section>\n\n  <section id=\"usage\" class=\"wrap\">\n    <p class=\"section-tag\">04 · 使用说明</p>\n    <h2 class=\"h2\">从订阅到接入</h2>\n    <p class=\"section-intro\">\n      以下步骤描述一般接入流程。具体客户端名称、版本与下载地址以购买后页面提示为准，本页不提供下载链接。\n    </p>\n\n    <ol class=\"steps\">\n      <li>\n        <h3>选择套餐并完成支付</h3>\n        <p>在套餐清单中选择对应档位，按月或按年完成支付。支付成功后，账户将生成订阅链接，链接具有唯一性，请勿公开分享。</p>\n      </li>\n      <li>\n        <h3>获取客户端与导入订阅</h3>\n        <p>根据设备系统选择兼容的客户端，将订阅链接导入客户端。客户端会自动拉取节点列表，首次导入可能需要手动更新订阅。</p>\n      </li>\n      <li>\n        <h3>选择节点并建立连接</h3>\n        <p>从节点列表中选择目标节点，点击连接。连接成功后，客户端通常会在状态栏显示当前节点与流量统计。若连接失败，可切换节点或检查本地网络。</p>\n      </li>\n      <li>\n        <h3>观察流量与设备额度</h3>\n        <p>流量按自然月重置，不结转。设备同时在线数达到上限后，新设备无法接入，需在账户页踢出旧设备后方可替换。</p>\n      </li>\n    </ol>\n  </section>\n\n  <section id=\"faq\" class=\"wrap\">\n    <p class=\"section-tag\">05 · 常见问题</p>\n    <h2 class=\"h2\">关于流量、设备与线路</h2>\n    <p class=\"section-intro\">\n      以下问答仅就本页已写明的规则作进一步说明，不引入新的承诺。\n    </p>\n\n    <div class=\"faq-group\">\n      <details>\n        <summary>流量每月会结转到下月吗？</summary>\n        <p>不会。每月流量额度在自然月末清零，次月按套餐额度重新计算。未使用部分不结转，也不折算为现金或服务时长。</p>\n      </details>\n      <details>\n        <summary>超出设备额度后会怎样？</summary>\n        <p>当同时在线设备数达到套餐上限时，新设备的连接请求将被拒绝。你需要在账户管理页主动断开一台已在线设备，然后重新在新设备上连接。系统不会自动替换设备。</p>\n      </details>\n      <details>\n        <summary>旗舰版的\"全节点原生流媒体解锁\"是否保证永久可用？</summary>\n        <p>不保证。原生 IP 出口在配置时满足解锁条件，但流媒体平台可能随时调整策略，导致部分节点对部分平台失效。零卡不承诺任何平台的具体解锁成功率。</p>\n      </details>\n      <details>\n        <summary>团队版的企业定制路由如何申请？</summary>\n        <p>团队版用户可通过专属客户经理提交路由定制需求工单，说明目的地址与预期行为。客户经理会在合理时间内评估可行性并反馈，不保证所有需求均可实现。</p>\n      </details>\n      <details>\n        <summary>按年付价格是否为月付折算后的优惠？</summary>\n        <p>按年付价格为独立公示的年付总额，不是月付价格的简单相加或折扣。支付年付后，账户有效期延长 12 个月，流量仍按自然月重置。</p>\n      </details>\n      <details>\n        <summary>基础版可以升级到旗舰版或团队版吗？</summary>\n        <p>可以。升级按当前套餐剩余时长折算差价。升级后流量额度即时按新套餐计算，但本月已使用流量不会从新额度中扣除。</p>\n      </details>\n    </div>\n  </section>\n\n  <footer>\n    <div class=\"foot-inner\">\n      <span>零卡 ZERO-CARD · 服务说明文档</span>\n      <span>本页内容以已写明条款为准，未写明的能力视为未提供。</span>\n    </div>\n  </footer>\n</main>",
+          "hash": "cdf008e0500f94ac7606f2f3d0dd82ef5e5790d6b0003e3b0e0780393b60def8",
+          "seo": {
+            "title": "零卡 | 网络访问服务说明与套餐",
+            "keywords": "零卡, 网络访问, 流量套餐, 设备接入, 网络加速, 使用说明",
+            "description": "零卡提供多层级网络访问与加速方案，以克制定价和分层流量设计满足日常浏览、流媒体及团队协作需求。本文档介绍套餐、设备使用规范及常见问题。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "708",
+            "hero": "5 长文叙事开篇，像专栏文章",
+            "palette": "9 深棕配薄荷",
+            "nav": "1 顶部细横条",
+            "card": "1 无边框仅靠留白分隔",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "1 冷静克制的说明书口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nnzhl.cn",
+    "host": "p-34a0b67ab5.nnzhl.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "2fb770d3756157d02a045df0cb72c5e12a3856e3ebd4c9556bc8d2cbae51b689",
+    "sitemap.xml": "a522f91f3dfd82a2c7741dda23fb3d0044090df20be568546013c294ee5ae92d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6b97e6a2dd32fbe79b1a746c7dfb2e797e8d18bfaa6663be6ae0207a4183e134",
+    "robots.txt": "b093debed37d90f1f0a8571fcab4ba5031286221eb5993481b25edf8a16ad146",
+    "4b58147361d5373662cda8abe9ef457a.txt": "68ffce2c313d3a9ce9f681d792d4849014bd6c2c658b4adfccbde632682485ee"
+  },
+  "revision": "ceca0bce9789d2ade2af3f2a868172e868fce441009dd62c23a2ba469095e3c1"
+}
